@@ -1,16 +1,17 @@
 ---
 layout: layout
-title: "Posts"
+title: "Home"
 ---
 
 <section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-      {% unless post.draft %}
-      <li>
-        <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
+  {% for post in site.posts limit:2 %}
+  {% unless post.draft %}
+   <h1><a href="{{ page.url }}">{{ post.title }}</a></h1>
+    <section class="byline">
+      {{ post.date | date: "%B %e, %Y" }}
+    </section>
+    {{ post.content }}
+  {% endunless %}
+  {% endfor %}
+
 </section>
