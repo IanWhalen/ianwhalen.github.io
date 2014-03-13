@@ -1,0 +1,7 @@
+---
+layout: post
+title: Murakami
+category: posts
+---
+
+> This may be the most important proposition revealed by history: "At the time, no one knew what was coming."

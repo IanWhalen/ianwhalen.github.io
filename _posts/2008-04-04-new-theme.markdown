@@ -1,0 +1,11 @@
+---
+layout: post
+title: New Theme!
+category: posts
+---
+
+-> <img width="600" src='http://farm2.static.flickr.com/1269/1350746677_aad2816ff2.jpg' alt='Brazilian Girls Color Test Photo'/> <-
+
+I've been putting my rudimentary CSS and HTML skills to the test by modding my latest Wordpress theme, <a href="http://5thirtyone.com/grid-focus">Grid Focus</a>, and I've been pretty happy with the results so far.  It is by all accounts still an overwhelmingly depressing mass of gray, however, so I'm testing different color palettes to see what works.
+
+Since it is difficult to test color palettes when even the pictures in the most recent post are grayscale, I am making this useless test post solely for the purpose of including the absurdly super-saturated color picture above.'
