@@ -4,9 +4,8 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
-github: holman
-gravatar_url: http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c
+name: Ian Whalen
+url: http://ianwhalen.com
+description: 
+github: IanWhalen
+gravatar_url: http://gravatar.com/avatar/6e33ce2ed935a5bbe1f7b8a60d6c13e7
