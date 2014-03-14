@@ -46,4 +46,5 @@ Second, I was told I should replace "...that I need to read?" with "...that you 
 
 A key attribute for any PM is the ability to reflect (on one's self and one's team) and then change the structures or processes around themselves if change is needed.  I suppose the underlying questions I want to answer are:
 
-> Do you have the capacity to take input and reflect on it in a meaningful way?  And is that capacity a deep and ingrained part of your personality?",
+> Do you have the capacity to take input and reflect on it in a meaningful way?
+> And is that capacity a deep and ingrained part of your personality?
