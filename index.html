@@ -4,14 +4,21 @@ title: "Home"
 ---
 
 <section class="content">
-  {% for post in site.posts limit:2 %}
-  {% unless post.draft %}
+  {% for post in site.posts limit:1 %}
+  {% if post.previous %}
+  <div class="navigation">
+    <span class="previous-post">
+      <a href="{{ post.previous.url }}">{{ post.previous.title }} <i class="fa fa-angle-double-right"></i></a>
+    </span>
+    <div class="clear"></div>
+    {% endif %}
+  </div>
+
    <h1><a href="{{ page.url }}">{{ post.title }}</a></h1>
     <section class="byline">
       {{ post.date | date: "%B %e, %Y" }}
     </section>
     {{ post.content }}
-  {% endunless %}
   {% endfor %}
 
 </section>

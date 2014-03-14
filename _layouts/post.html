@@ -3,6 +3,20 @@ layout: layout
 ---
 
 <section class="content">
+  <div class="navigation">
+    {% if page.next %}
+    <span class="next-post">
+      <a href="{{ page.next.url }}"> <i class="fa fa-angle-double-left"></i> {{ page.next.title }}</a>
+    </span>
+    {% endif %}
+    {% if page.previous %}
+    <span class="previous-post">
+      <a href="{{ page.previous.url }}">{{ page.previous.title }} <i class="fa fa-angle-double-right"></i></a>
+    </span>
+    {% endif %}
+  </div>
+
+  <div class="clear"></div>
   <h1>
     <a href="{{ page.url }}">{{ page.title }}</a>
   </h1>

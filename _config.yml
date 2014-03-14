@@ -3,9 +3,13 @@ pygments: true
 permalink: /posts/:title
 rdiscount:
   extensions: [smart]
+paginate: 5
 
-name: Ian Whalen
+
+name: Ian Mackenzie Whalen
 url: http://ianwhalen.com
 description: 
 github: IanWhalen
+flickr: IanWhalen
+linkedin: IanWhalen
 gravatar_url: http://gravatar.com/avatar/6e33ce2ed935a5bbe1f7b8a60d6c13e7
