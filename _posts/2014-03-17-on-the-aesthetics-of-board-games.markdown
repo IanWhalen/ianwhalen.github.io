@@ -14,7 +14,7 @@ And so it is that one game in particular, [Coup](http://boardgamegeek.com/boardg
 
 -> ![France Coup card game](/images/coup-france.png =338x262) ![Brazil Coup card game](/images/coup-brazil.png =338x300) ![USA Coup card game](/images/coup-usa.png =338x250) <-
 
-_De gustibus non est disputandum_ and all that jazz - there are still cases where I feel strongly enough that one work of art is truly better than another, and this is one of those situations.  Two of these releases have humour and character and seem __inspired__, while could be meant for a SyFy channel TV show based on The 5th Element.  (That isn't a good thing.)
+_De gustibus non est disputandum_ and all that jazz - there are still cases where I feel strongly enough that one work of art is truly better than another, and this is one of those situations.  Two of these releases have humour and character and seem __inspired__, while the third could be meant for a SyFy channel TV show based on The 5th Element.  (That isn't a good thing.)
 
 I started writing intending to contrast American and non-American design teams, but a dive through [BGG](http://boardgamegeek.com/) didn't support my suspicion that the artwork coming out of international designers was any better.  Germany is certainly at the front of the pack in cranking out [lackluster imagery](http://boardgamegeek.com/boardgame/31260/agricola).
 
