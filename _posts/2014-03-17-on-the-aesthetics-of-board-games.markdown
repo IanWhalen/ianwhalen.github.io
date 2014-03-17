@@ -10,11 +10,9 @@ The experience of a game isn't lessened by boring artwork, but the thought that 
 
 But sometimes licensing contracts allow the same game to be published in different countries with different themes.  The recent surge in popularity of micro-games (like [Love Letter](http://www.boardgamegeek.com/boardgame/129622/love-letter)) is probably related; when the rules are half a page and the assets are 16 cards, it's probably easiest just to license your brand to a studio in every country and let each deal with the localization.
 
-And so it is that one game in particular caught my eye for the wide range in quality of its 3 major releases: [Coup](http://boardgamegeek.com/boardgame/131357/coup):
+And so it is that one game in particular, [Coup](http://boardgamegeek.com/boardgame/131357/coup), caught my eye for the wide range in quality of its 3 major releases:
 
--> ![](/images/coup-france.png =338x262) <-
--> ![](/images/coup-brazil.png =338x300) <-
--> ![](/images/coup-usa.png =338x250) <-
+-> ![France Coup card game](/images/coup-france.png =338x262) ![Brazil Coup card game](/images/coup-brazil.png =338x300) ![USA Coup card game](/images/coup-usa.png =338x250) <-
 
 _De gustibus non est disputandum_ and all that jazz - there are still cases where I feel strongly enough that one work of art is truly better than another, and this is one of those situations.  Two of these releases have humour and character and seem __inspired__, while could be meant for a SyFy channel TV show based on The 5th Element.  (That isn't a good thing.)
 
