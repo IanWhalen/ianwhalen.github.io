@@ -1,5 +1,5 @@
 markdown: rdiscount
-pygments: true
+highlighter: rouge
 permalink: /posts/:title
 rdiscount:
   extensions: [smart]
@@ -13,3 +13,5 @@ GitHub: IanWhalen
 Flickr: IanWhalen
 LinkedIn: IanWhalen
 gravatar_url: http://gravatar.com/avatar/6e33ce2ed935a5bbe1f7b8a60d6c13e7
+
+gems: [jekyll-paginate]
