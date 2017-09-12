@@ -223,3 +223,8 @@ a {
     float: left; }
   .navigation .previous-post {
     float: right; }
+
+/* To center images */
+.center {
+    text-align: center;
+}

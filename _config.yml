@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown
 highlighter: rouge
 permalink: /posts/:title
 rdiscount:
@@ -8,7 +8,7 @@ paginate: 5
 
 name: Ian Mackenzie Whalen
 url: http://ianwhalen.com
-description: 
+description:
 GitHub: IanWhalen
 Flickr: IanWhalen
 LinkedIn: IanWhalen
